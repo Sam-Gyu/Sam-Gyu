@@ -2,7 +2,14 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/03/3f/aa/033faaf7e334e988c3267b85004e38b2.jpg"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sam-Gyu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sam-Gyu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://media.tenor.com/EDavV_gt4DYAAAAM/bandori-bang-dream.gif"  />
 
 ###
 
@@ -40,5 +47,15 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Sam-Gyu/Sam-Gyu/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">👩‍💻 About Me<br><br>I'm an Computer Science student with a strong interest in Machine Learning, Web Development, and creative tech projects.<br><br> Currently working on real-world projects to strengthen my knowledge and apply what I learn in practice.<br><br>📚 I'm actively improving my skills in:<br>🐍 Python & Data Analysis.<br>🌐 Flask & Django (Back-end).<br>🎨 HTML / CSS / JavaScript (Front-end).<br>🤖 Machine Learning & AI fundamentals.</p>
 
 ###
