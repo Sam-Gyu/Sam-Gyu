@@ -12,7 +12,6 @@
   <a href="https://www.facebook.com/share/15hvit5Lz6/?mibextid=qi2Omg" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
 </a>
-
   <a href="https://wa.me/01503355287" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
 </a>
@@ -54,12 +53,12 @@
 
 ###
 
-<p align="left">👩‍💻 About Me:<br><br>🎓 I'm an Computer Science student with a strong interest in Machine Learning, Web Development, and creative tech projects. <br><br>📚 Currently working on real-world projects to strengthen my knowledge and apply what I learn in practice.<br><br>📚 I'm actively improving my skills in:<br>- Python & Data Analysis.<br>- Flask & Django (Back-end).<br>- HTML / CSS / JavaScript (Front-end).<br>- Machine Learning & AI fundamentals.</p>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Sam-Gyu.Sam-Gyu&"  />
 </div>
+
+###
+
+<p align="left">👩‍💻 About Me:<br>🎓 I'm an Computer Science student with a strong interest in Machine Learning, Web Development, and creative tech projects. <br>📚 Currently working on real-world projects to strengthen my knowledge and apply what I learn in practice.<br>📚 I'm actively improving my skills in:<br>- Python & Data Analysis.<br>- Flask & Django (Back-end).<br>- HTML / CSS / JavaScript (Front-end).<br>- Machine Learning & AI fundamentals.</p>
 
 ###
