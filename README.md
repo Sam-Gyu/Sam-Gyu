@@ -67,7 +67,7 @@
 
 ###
 
-<h4 align="left">🎓  I'm an Computer Science student with a strong interest in Machine Learning, Web Development, and creative tech projects. <br>👩‍💻  Currently working on real-world projects to strengthen my knowledge and apply what I learn in practice.<br>📚 I'm actively improving my skills in:<br>- Python & Data Analysis.<br>- Flask & Django (Back-end).<br>- HTML / CSS / JavaScript (Front-end).<br>- Machine Learning & AI fundamentals.</h4>
+<h4 align="left">🎓  I'm a Computer Science student with a strong interest in Machine Learning, Web Development, and creative tech projects. <br>👩‍💻  Currently working on real-world projects to strengthen my knowledge and apply what I learn in practice.<br>📚 I'm actively improving my skills in:<br>- Python & Data Analysis.<br>- Flask & Django (Back-end).<br>- HTML / CSS / JavaScript (Front-end).<br>- Machine Learning & AI fundamentals.</h4>
 
 ###
 
